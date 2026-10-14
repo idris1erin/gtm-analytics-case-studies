@@ -1,0 +1,50 @@
+product_id,product_family,product_subfamily
+P001,Privileged Access Management,PAM Core
+P002,Privileged Access Management,Password Safe
+P003,Privileged Access Management,Session Management
+P004,Privileged Access Management,Least Privilege Enforcement
+P005,Endpoint Privilege Management,EPM for Windows
+P006,Endpoint Privilege Management,EPM for Mac
+P007,Endpoint Privilege Management,EPM for Linux
+P008,Endpoint Privilege Management,Application Control
+P009,Secrets Management,DevOps Secrets
+P010,Secrets Management,Certificate Lifecycle
+P011,Secrets Management,API Key Vault
+P012,Privileged Remote Access,Vendor Access
+P013,Privileged Remote Access,Workforce Remote Access
+P014,Privileged Remote Access,Jump Technology
+P015,Identity Threat Detection & Response,ITDR Analytics
+P016,Identity Threat Detection & Response,Account Takeover Defense
+P017,Identity Threat Detection & Response,Lateral Movement Detection
+P018,Cloud Infrastructure Entitlements,CIEM for AWS
+P019,Cloud Infrastructure Entitlements,CIEM for Azure
+P020,Cloud Infrastructure Entitlements,CIEM for GCP
+P021,Cloud Infrastructure Entitlements,Entitlement Discovery
+P022,Active Directory Security,AD Audit
+P023,Active Directory Security,AD Recovery
+P024,Active Directory Security,Group Policy Management
+P025,Active Directory Security,Tiered Admin
+P026,Credential & Password Vaulting,Enterprise Vault
+P027,Credential & Password Vaulting,Shared Credential Store
+P028,Credential & Password Vaulting,Break-Glass Access
+P029,Session Monitoring & Recording,Live Session Monitor
+P030,Session Monitoring & Recording,Keystroke Logging
+P031,Session Monitoring & Recording,Session Replay
+P032,Vulnerability Management,Asset Discovery
+P033,Vulnerability Management,Risk Prioritization
+P034,Vulnerability Management,Patch Orchestration
+P035,Multi-Factor Authentication,Adaptive MFA
+P036,Multi-Factor Authentication,Passwordless
+P037,Multi-Factor Authentication,Hardware Token Mgmt
+P038,Identity Governance & Administration,Access Certification
+P039,Identity Governance & Administration,Role Mining
+P040,Identity Governance & Administration,Provisioning Engine
+P041,Zero Trust Network Access,ZTNA Gateway
+P042,Zero Trust Network Access,Microsegmentation
+P043,Zero Trust Network Access,Device Posture
+P044,Data Access Governance,Sensitive Data Discovery
+P045,Data Access Governance,Access Reviews
+P046,Data Access Governance,DLP Integration
+P047,Security Analytics & Reporting,SIEM Connectors
+P048,Security Analytics & Reporting,Compliance Dashboards
+P049,Security Analytics & Reporting,Threat Intelligence Feeds

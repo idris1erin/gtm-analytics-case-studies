@@ -1,0 +1,171 @@
+rep_id,L1_firm_cro,L2_theater_lead,theater,L3_vp,geo,L5_manager,rep_name,rep_title,annual_nbb_quota,open_pipeline,pipeline_coverage,xdr_support,partner_sourced_pct,hire_date,tenure_months,ramp_status
+R0001,Idris E,David Chowdhury,Americas,Raj Tanaka,NA-East,Sven Patel,Sofia Patel,Mid-Market AE,3068841.0,13103949.0,4.27,1,27.0,2025-03-07,10,Ramped
+R0002,Idris E,David Chowdhury,Americas,Raj Tanaka,NA-East,Sven Patel,Noah Diaz,Enterprise AE,5523913.0,20162283.0,3.65,0,10.0,2023-02-16,35,Ramped
+R0003,Idris E,David Chowdhury,Americas,Raj Tanaka,NA-East,Sven Patel,Isla Lund,Enterprise AE,5523913.0,23973783.0,4.34,2,23.4,2024-06-10,19,Ramped
+R0004,Idris E,David Chowdhury,Americas,Raj Tanaka,NA-East,Sven Patel,Kofi Chowdhury,Commercial AE,1841304.0,6904891.0,3.75,1,24.5,2025-07-05,6,Ramped
+R0005,Idris E,David Chowdhury,Americas,Raj Tanaka,NA-East,Sven Patel,Noah Okafor,Commercial AE,1841304.0,7512522.0,4.08,1,4.5,2025-01-06,12,Ramped
+R0006,Idris E,David Chowdhury,Americas,Raj Tanaka,NA-East,Sven Patel,Sven Tanaka,Commercial AE,1841304.0,5008348.0,2.72,3,21.2,2024-08-09,17,Ramped
+R0007,Idris E,David Chowdhury,Americas,Raj Tanaka,NA-East,Noah Cohen,Kai Chowdhury,Commercial AE,1841304.0,6076304.0,3.3,5,13.9,2025-04-06,9,Ramped
+R0008,Idris E,David Chowdhury,Americas,Raj Tanaka,NA-East,Noah Cohen,Raj Mbeki,Mid-Market AE,3068841.0,11416087.0,3.72,2,38.9,2025-04-06,9,Ramped
+R0009,Idris E,David Chowdhury,Americas,Raj Tanaka,NA-East,Noah Cohen,Leah Khan,Mid-Market AE,3068841.0,13502899.0,4.4,3,25.5,2024-01-12,24,Ramped
+R0010,Idris E,David Chowdhury,Americas,Raj Tanaka,NA-East,Noah Cohen,Omar Tanaka,Commercial AE,1841304.0,5652804.0,3.07,2,20.8,2025-05-06,8,Ramped
+R0011,Idris E,David Chowdhury,Americas,Raj Tanaka,NA-West,David Khan,Maria Vargas,Mid-Market AE,3068841.0,12490181.0,4.07,0,23.4,2022-12-18,37,Ramped
+R0012,Idris E,David Chowdhury,Americas,Raj Tanaka,NA-West,David Khan,Leah Olsen,Mid-Market AE,3068841.0,9850978.0,3.21,0,28.3,2022-11-18,38,Ramped
+R0013,Idris E,David Chowdhury,Americas,Raj Tanaka,NA-West,David Khan,Mei Garcia,Commercial AE,1841304.0,6205196.0,3.37,3,34.3,2023-07-16,30,Ramped
+R0014,Idris E,David Chowdhury,Americas,Raj Tanaka,NA-West,David Khan,Isla Ferreira,Enterprise AE,5523913.0,24360456.0,4.41,3,10.0,2025-11-02,2,Ramping
+R0015,Idris E,David Chowdhury,Americas,Raj Tanaka,NA-West,David Khan,Yuki Patel,Commercial AE,1841304.0,2761957.0,1.5,4,9.4,2023-06-16,31,Ramped
+R0016,Idris E,David Chowdhury,Americas,Raj Tanaka,NA-West,David Khan,Ivan Tanaka,Strategic AE,9206522.0,19057500.0,2.07,1,41.6,2022-12-18,37,Ramped
+R0017,Idris E,David Chowdhury,Americas,Raj Tanaka,NA-West,David Khan,Fatima Bauer,Commercial AE,1841304.0,3443239.0,1.87,0,18.8,2023-06-16,31,Ramped
+R0018,Idris E,David Chowdhury,Americas,Raj Tanaka,NA-West,Marco Lund,Yuki Novak,Enterprise AE,5523913.0,8285870.0,1.5,4,3.7,2025-06-05,7,Ramped
+R0019,Idris E,David Chowdhury,Americas,Raj Tanaka,NA-West,Marco Lund,Elena Nguyen,Strategic AE,9206522.0,25317935.0,2.75,1,31.7,2025-05-06,8,Ramped
+R0020,Idris E,David Chowdhury,Americas,Raj Tanaka,NA-West,Marco Lund,Aisha Garcia,Strategic AE,9206522.0,39772174.0,4.32,0,32.0,2025-09-03,4,Ramping
+R0021,Idris E,David Chowdhury,Americas,Raj Tanaka,NA-West,Marco Lund,Isla Bauer,Enterprise AE,5523913.0,17621283.0,3.19,2,2.0,2025-04-06,9,Ramped
+R0022,Idris E,David Chowdhury,Americas,Kai Lund,LATAM,Ivan Mbeki,Kai Cohen,Enterprise AE,5523913.0,20548956.0,3.72,2,28.4,2025-12-02,1,Ramping
+R0023,Idris E,David Chowdhury,Americas,Kai Lund,LATAM,Ivan Mbeki,David Novak,Mid-Market AE,3068841.0,14423551.0,4.7,2,36.0,2025-09-03,4,Ramping
+R0024,Idris E,David Chowdhury,Americas,Kai Lund,LATAM,Ivan Mbeki,Marco Kim,Enterprise AE,5523913.0,27398609.0,4.96,0,30.6,2023-01-17,36,Ramped
+R0025,Idris E,David Chowdhury,Americas,Kai Lund,LATAM,Ivan Mbeki,Omar Okafor,Commercial AE,1841304.0,6297261.0,3.42,3,34.5,2016-11-19,111,Ramped
+R0026,Idris E,David Chowdhury,Americas,Kai Lund,LATAM,Ivan Mbeki,Anna Novak,Mid-Market AE,3068841.0,15313514.0,4.99,1,3.9,2024-10-08,15,Ramped
+R0027,Idris E,David Chowdhury,Americas,Kai Lund,LATAM,Tomas Rossi,Anna Berg,Mid-Market AE,3068841.0,11047826.0,3.6,1,30.0,2025-06-05,7,Ramped
+R0028,Idris E,David Chowdhury,Americas,Kai Lund,LATAM,Tomas Rossi,Omar Garcia,Enterprise AE,5523913.0,14251696.0,2.58,0,20.5,2025-02-05,11,Ramped
+R0029,Idris E,David Chowdhury,Americas,Kai Lund,LATAM,Tomas Rossi,Leah Costa,Mid-Market AE,3068841.0,8746196.0,2.85,0,17.8,2025-03-07,10,Ramped
+R0030,Idris E,David Chowdhury,Americas,Kai Lund,LATAM,Tomas Rossi,Kofi Patel,Mid-Market AE,3068841.0,5738732.0,1.87,1,38.1,2025-10-03,3,Ramping
+R0031,Idris E,David Chowdhury,Americas,Kai Lund,LATAM,Tomas Rossi,Tomas Chowdhury,Mid-Market AE,3068841.0,7733478.0,2.52,2,47.2,2023-07-16,30,Ramped
+R0032,Idris E,David Chowdhury,Americas,Kai Lund,LATAM,Tomas Rossi,Leah Tanaka,Commercial AE,1841304.0,5726457.0,3.11,1,51.9,2022-11-18,38,Ramped
+R0033,Idris E,Leah Vargas,EMEA,Hassan Park,UKI,Liam Bauer,Chen Moreau,Commercial AE,661821.0,2898777.0,4.38,3,44.7,2022-07-21,42,Ramped
+R0034,Idris E,Leah Vargas,EMEA,Hassan Park,UKI,Liam Bauer,Ahmed Moreau,Mid-Market AE,1103035.0,5945360.0,5.39,2,23.4,2016-02-23,120,Ramped
+R0035,Idris E,Leah Vargas,EMEA,Hassan Park,UKI,Liam Bauer,James Chowdhury,Mid-Market AE,1103035.0,2184010.0,1.98,0,30.3,2021-03-28,58,Ramped
+R0036,Idris E,Leah Vargas,EMEA,Hassan Park,UKI,Liam Bauer,Marco Chowdhury,Commercial AE,661821.0,2600957.0,3.93,1,36.5,2022-03-23,46,Ramped
+R0037,Idris E,Leah Vargas,EMEA,Hassan Park,UKI,Liam Bauer,Raj Novak,Mid-Market AE,1103035.0,2603163.0,2.36,0,26.8,2023-08-15,29,Ramped
+R0038,Idris E,Leah Vargas,EMEA,Hassan Park,UKI,Liam Bauer,Kofi Olsen,Mid-Market AE,1103035.0,4434202.0,4.02,0,27.0,2024-09-08,16,Ramped
+R0039,Idris E,Leah Vargas,EMEA,Hassan Park,UKI,Marco Khan,Noah Andersson,Commercial AE,661821.0,2223719.0,3.36,2,37.4,2025-12-02,1,Ramping
+R0040,Idris E,Leah Vargas,EMEA,Hassan Park,UKI,Marco Khan,Maria Garcia,Mid-Market AE,1103035.0,1654553.0,1.5,3,24.1,2023-11-13,26,Ramped
+R0041,Idris E,Leah Vargas,EMEA,Hassan Park,UKI,Marco Khan,Liam Okafor,Enterprise AE,1985463.0,8974295.0,4.52,2,14.1,2024-08-09,17,Ramped
+R0042,Idris E,Leah Vargas,EMEA,Hassan Park,UKI,Marco Khan,Omar Bauer,Commercial AE,661821.0,1872954.0,2.83,2,18.8,2022-07-21,42,Ramped
+R0043,Idris E,Leah Vargas,EMEA,Hassan Park,UKI,Marco Khan,Sven Khan,Strategic AE,3309106.0,9629497.0,2.91,3,34.5,2021-05-27,56,Ramped
+R0044,Idris E,Leah Vargas,EMEA,Hassan Park,DACH,Isla Andersson,Aisha Khan,Strategic AE,3309106.0,7677125.0,2.32,0,25.0,2025-04-06,9,Ramped
+R0045,Idris E,Leah Vargas,EMEA,Hassan Park,DACH,Isla Andersson,Marco Santos,Mid-Market AE,1103035.0,3066438.0,2.78,1,30.1,2025-12-02,1,Ramping
+R0046,Idris E,Leah Vargas,EMEA,Hassan Park,DACH,Isla Andersson,Mei Walsh,Commercial AE,661821.0,2627430.0,3.97,2,35.1,2023-12-13,25,Ramped
+R0047,Idris E,Leah Vargas,EMEA,Hassan Park,DACH,Isla Andersson,Yuki Tanaka,Mid-Market AE,1103035.0,3628986.0,3.29,3,19.4,2020-03-03,71,Ramped
+R0048,Idris E,Leah Vargas,EMEA,Hassan Park,DACH,Isla Andersson,Ivan Rossi,Enterprise AE,1985463.0,7663889.0,3.86,5,36.3,2024-03-12,22,Ramped
+R0049,Idris E,Leah Vargas,EMEA,Hassan Park,DACH,Isla Andersson,Nia Mbeki,Enterprise AE,1985463.0,7743307.0,3.9,1,30.7,2021-02-26,59,Ramped
+R0050,Idris E,Leah Vargas,EMEA,Hassan Park,DACH,Ivan Vargas,Liam Moreau,Enterprise AE,1985463.0,9828044.0,4.95,3,6.5,2024-04-11,21,Ramped
+R0051,Idris E,Leah Vargas,EMEA,Hassan Park,DACH,Ivan Vargas,Nia Ali,Mid-Market AE,1103035.0,3441470.0,3.12,0,46.6,2023-01-17,36,Ramped
+R0052,Idris E,Leah Vargas,EMEA,Hassan Park,DACH,Ivan Vargas,Nia Tanaka,Mid-Market AE,1103035.0,2073706.0,1.88,1,17.5,2025-05-06,8,Ramped
+R0053,Idris E,Leah Vargas,EMEA,Hassan Park,DACH,Ivan Vargas,Raj Okafor,Commercial AE,661821.0,3090705.0,4.67,0,0.2,2025-10-03,3,Ramping
+R0054,Idris E,Leah Vargas,EMEA,Aisha Silva,South EMEA,Ivan Reyes,Grace Mbeki,Enterprise AE,1985463.0,6234355.0,3.14,0,9.3,2025-10-03,3,Ramping
+R0055,Idris E,Leah Vargas,EMEA,Aisha Silva,South EMEA,Ivan Reyes,Leah Santos,Commercial AE,661821.0,3130414.0,4.73,0,9.7,2025-10-03,3,Ramping
+R0056,Idris E,Leah Vargas,EMEA,Aisha Silva,South EMEA,Ivan Reyes,Ahmed Dubois,Enterprise AE,1985463.0,7783017.0,3.92,1,25.8,2025-12-02,1,Ramping
+R0057,Idris E,Leah Vargas,EMEA,Aisha Silva,South EMEA,Ivan Reyes,James Okafor,Enterprise AE,1985463.0,6671157.0,3.36,1,20.9,2022-01-22,48,Ramped
+R0058,Idris E,Leah Vargas,EMEA,Aisha Silva,South EMEA,Ivan Reyes,Kofi Bauer,Commercial AE,661821.0,2567866.0,3.88,0,19.9,2025-01-06,12,Ramped
+R0059,Idris E,Leah Vargas,EMEA,Aisha Silva,South EMEA,Omar Ferreira,Kai Silva,Mid-Market AE,1103035.0,6232149.0,5.65,1,34.3,2025-03-07,10,Ramped
+R0060,Idris E,Leah Vargas,EMEA,Aisha Silva,South EMEA,Omar Ferreira,Rosa Garcia,Commercial AE,661821.0,3825326.0,5.78,1,30.1,2023-11-13,26,Ramped
+R0061,Idris E,Leah Vargas,EMEA,Aisha Silva,South EMEA,Omar Ferreira,Elena Bauer,Enterprise AE,1985463.0,7107959.0,3.58,1,29.7,2025-08-04,5,Ramping
+R0062,Idris E,Leah Vargas,EMEA,Aisha Silva,South EMEA,Omar Ferreira,Elena Tanaka,Commercial AE,661821.0,2435502.0,3.68,1,31.1,2021-08-25,53,Ramped
+R0063,Idris E,Leah Vargas,EMEA,Aisha Silva,South EMEA,Chen Cohen,Tomas Bauer,Strategic AE,3309106.0,15486615.0,4.68,0,34.2,2023-01-17,36,Ramped
+R0064,Idris E,Leah Vargas,EMEA,Aisha Silva,South EMEA,Chen Cohen,Mei Costa,Commercial AE,661821.0,1700880.0,2.57,1,0.0,2025-04-06,9,Ramped
+R0065,Idris E,Leah Vargas,EMEA,Aisha Silva,South EMEA,Chen Cohen,Yuki Berg,Strategic AE,3309106.0,12806239.0,3.87,2,19.5,2025-08-04,5,Ramping
+R0066,Idris E,Leah Vargas,EMEA,Aisha Silva,South EMEA,Chen Cohen,David Dubois,Enterprise AE,1985463.0,6889558.0,3.47,3,0.0,2024-11-07,14,Ramped
+R0067,Idris E,Leah Vargas,EMEA,Aisha Silva,MEA,Yuki Ali,Anna Tanaka,Mid-Market AE,1103035.0,4246686.0,3.85,1,25.5,2025-05-06,8,Ramped
+R0068,Idris E,Leah Vargas,EMEA,Aisha Silva,MEA,Yuki Ali,Liam Lund,Enterprise AE,1985463.0,5122496.0,2.58,2,24.9,2025-11-02,2,Ramping
+R0069,Idris E,Leah Vargas,EMEA,Aisha Silva,MEA,Yuki Ali,Ivan Haddad,Enterprise AE,1985463.0,3474561.0,1.75,2,40.7,2024-11-07,14,Ramped
+R0070,Idris E,Leah Vargas,EMEA,Aisha Silva,MEA,Yuki Ali,Marco Haddad,Strategic AE,3309106.0,4963658.0,1.5,2,42.8,2020-10-29,63,Ramped
+R0071,Idris E,Leah Vargas,EMEA,Aisha Silva,MEA,Yuki Ali,Omar Lund,Commercial AE,661821.0,1502334.0,2.27,0,28.0,2023-09-14,28,Ramped
+R0072,Idris E,Leah Vargas,EMEA,Aisha Silva,MEA,Nia Patel,Omar Ali,Mid-Market AE,1103035.0,3309106.0,3.0,0,17.5,2018-12-09,86,Ramped
+R0073,Idris E,Leah Vargas,EMEA,Aisha Silva,MEA,Nia Patel,Priya Tanaka,Commercial AE,661821.0,2104591.0,3.18,1,32.3,2021-04-27,57,Ramped
+R0074,Idris E,Leah Vargas,EMEA,Aisha Silva,MEA,Nia Patel,Kofi Rossi,Mid-Market AE,1103035.0,6210088.0,5.63,0,17.1,2023-06-16,31,Ramped
+R0075,Idris E,Leah Vargas,EMEA,Aisha Silva,MEA,Nia Patel,Kofi Santos,Commercial AE,661821.0,3123796.0,4.72,0,25.0,2021-10-24,51,Ramped
+R0076,Idris E,Leah Andersson,APJ,Aisha Kim,ANZ,Sven Walsh,Elena Ferreira,Mid-Market AE,484301.0,1181695.0,2.44,0,39.8,2024-05-11,20,Ramped
+R0077,Idris E,Leah Andersson,APJ,Aisha Kim,ANZ,Sven Walsh,Tomas Costa,Mid-Market AE,484301.0,1879089.0,3.88,1,16.6,2023-08-15,29,Ramped
+R0078,Idris E,Leah Andersson,APJ,Aisha Kim,ANZ,Sven Walsh,Chen Andersson,Mid-Market AE,484301.0,1477119.0,3.05,3,37.1,2025-03-07,10,Ramped
+R0079,Idris E,Leah Andersson,APJ,Aisha Kim,ANZ,Sven Walsh,David Reyes,Mid-Market AE,484301.0,1544921.0,3.19,2,35.2,2025-07-05,6,Ramped
+R0080,Idris E,Leah Andersson,APJ,Aisha Kim,ANZ,Sven Walsh,Mei Patel,Enterprise AE,871743.0,3225447.0,3.7,2,10.7,2021-01-27,60,Ramped
+R0081,Idris E,Leah Andersson,APJ,Aisha Kim,ANZ,Sven Walsh,Isla Mbeki,Enterprise AE,871743.0,3643884.0,4.18,4,39.6,2025-10-03,3,Ramping
+R0082,Idris E,Leah Andersson,APJ,Aisha Kim,ANZ,Sven Walsh,Marco Nguyen,Mid-Market AE,484301.0,1515863.0,3.13,2,35.5,2025-08-04,5,Ramping
+R0083,Idris E,Leah Andersson,APJ,Aisha Kim,ANZ,Ahmed Novak,Tomas Reyes,Mid-Market AE,484301.0,2261688.0,4.67,1,26.5,2025-05-06,8,Ramped
+R0084,Idris E,Leah Andersson,APJ,Aisha Kim,ANZ,Ahmed Novak,Chen Bauer,Strategic AE,1452904.0,3254505.0,2.24,1,13.6,2023-10-14,27,Ramped
+R0085,Idris E,Leah Andersson,APJ,Aisha Kim,ANZ,Ahmed Novak,Priya Kim,Commercial AE,290581.0,1019939.0,3.51,0,12.1,2025-02-05,11,Ramped
+R0086,Idris E,Leah Andersson,APJ,Aisha Kim,ANZ,Ahmed Novak,Diego Chowdhury,Commercial AE,290581.0,1848094.0,6.36,0,16.9,2024-06-10,19,Ramped
+R0087,Idris E,Leah Andersson,APJ,Aisha Kim,Japan,Ivan Andersson,Yuki Costa,Commercial AE,290581.0,1089678.0,3.75,1,33.1,2021-01-27,60,Ramped
+R0088,Idris E,Leah Andersson,APJ,Aisha Kim,Japan,Ivan Andersson,Diego Olsen,Enterprise AE,871743.0,4428452.0,5.08,0,10.7,2022-06-21,43,Ramped
+R0089,Idris E,Leah Andersson,APJ,Aisha Kim,Japan,Ivan Andersson,James Garcia,Mid-Market AE,484301.0,1743485.0,3.6,3,31.6,2023-05-17,32,Ramped
+R0090,Idris E,Leah Andersson,APJ,Aisha Kim,Japan,Ivan Andersson,Rosa Mbeki,Enterprise AE,871743.0,3609014.0,4.14,2,6.4,2025-09-03,4,Ramping
+R0091,Idris E,Leah Andersson,APJ,Aisha Kim,Japan,Ivan Andersson,Elena Novak,Enterprise AE,871743.0,2998794.0,3.44,0,21.9,2023-04-17,33,Ramped
+R0092,Idris E,Leah Andersson,APJ,Aisha Kim,Japan,David Olsen,Omar Berg,Commercial AE,290581.0,961823.0,3.31,1,26.6,2025-01-06,12,Ramped
+R0093,Idris E,Leah Andersson,APJ,Aisha Kim,Japan,David Olsen,Aisha Novak,Enterprise AE,871743.0,2301400.0,2.64,2,61.7,2025-10-03,3,Ramping
+R0094,Idris E,Leah Andersson,APJ,Aisha Kim,Japan,David Olsen,Rosa Santos,Enterprise AE,871743.0,3460818.0,3.97,0,4.3,2025-02-05,11,Ramped
+R0095,Idris E,Leah Andersson,APJ,Aisha Kim,Japan,David Olsen,Nia Walsh,Commercial AE,290581.0,743887.0,2.56,2,47.1,2025-12-02,1,Ramping
+R0096,Idris E,Leah Andersson,APJ,Aisha Kim,Japan,David Olsen,Yuki Moreau,Mid-Market AE,484301.0,2048595.0,4.23,4,27.2,2023-12-13,25,Ramped
+R0097,Idris E,Leah Andersson,APJ,James Park,India,Chen Santos,Tomas Okafor,Commercial AE,290581.0,1362824.0,4.69,0,31.2,2023-10-14,27,Ramped
+R0098,Idris E,Leah Andersson,APJ,James Park,India,Chen Santos,Raj Bauer,Commercial AE,290581.0,1133265.0,3.9,1,26.8,2025-05-06,8,Ramped
+R0099,Idris E,Leah Andersson,APJ,James Park,India,Chen Santos,Priya Olsen,Commercial AE,290581.0,926953.0,3.19,2,31.7,2025-12-02,1,Ramping
+R0100,Idris E,Leah Andersson,APJ,James Park,India,Chen Santos,Liam Reyes,Strategic AE,1452904.0,5811617.0,4.0,1,22.7,2019-10-05,76,Ramped
+R0101,Idris E,Leah Andersson,APJ,James Park,India,Chen Santos,Kofi Ferreira,Mid-Market AE,484301.0,1530392.0,3.16,1,46.8,2024-03-12,22,Ramped
+R0102,Idris E,Leah Andersson,APJ,James Park,India,Chen Santos,Rosa Chowdhury,Mid-Market AE,484301.0,2193885.0,4.53,2,18.2,2022-08-20,41,Ramped
+R0103,Idris E,Leah Andersson,APJ,James Park,India,Mei Ali,Sofia Haddad,Enterprise AE,871743.0,1307614.0,1.5,3,42.0,2025-04-06,9,Ramped
+R0104,Idris E,Leah Andersson,APJ,James Park,India,Mei Ali,Hassan Santos,Mid-Market AE,484301.0,1515863.0,3.13,2,15.3,2022-03-23,46,Ramped
+R0105,Idris E,Leah Andersson,APJ,James Park,India,Mei Ali,Leah Berg,Strategic AE,1452904.0,2179356.0,1.5,0,24.1,2022-04-22,45,Ramped
+R0106,Idris E,Leah Andersson,APJ,James Park,India,Mei Ali,Rosa Reyes,Enterprise AE,871743.0,1621441.0,1.86,2,8.9,2025-11-02,2,Ramping
+R0107,Idris E,Leah Andersson,APJ,James Park,India,Mei Ali,Nia Costa,Mid-Market AE,484301.0,2421507.0,5.0,0,31.8,2016-02-23,120,Ramped
+R0108,Idris E,Leah Andersson,APJ,James Park,India,Mei Ali,Noah Ali,Mid-Market AE,484301.0,2169670.0,4.48,2,46.7,2024-07-10,18,Ramped
+R0109,Idris E,Leah Andersson,APJ,James Park,India,Mei Ali,Liam Diaz,Strategic AE,1452904.0,3937370.0,2.71,0,23.8,2022-10-19,39,Ramped
+R0110,Idris E,Leah Andersson,APJ,James Park,India,Rosa Kim,Noah Nguyen,Enterprise AE,871743.0,1612724.0,1.85,1,22.0,2025-07-05,6,Ramped
+R0111,Idris E,Leah Andersson,APJ,James Park,India,Rosa Kim,Ivan Diaz,Strategic AE,1452904.0,2179356.0,1.5,0,8.3,2023-10-14,27,Ramped
+R0112,Idris E,Leah Andersson,APJ,James Park,India,Rosa Kim,Chen Park,Commercial AE,290581.0,842684.0,2.9,2,21.6,2025-05-06,8,Ramped
+R0113,Idris E,Leah Andersson,APJ,James Park,India,Rosa Kim,David Lund,Enterprise AE,871743.0,5369934.0,6.16,3,1.1,2022-04-22,45,Ramped
+R0114,Idris E,Leah Andersson,APJ,James Park,ASEAN,Fatima Rossi,Priya Silva,Mid-Market AE,484301.0,1927520.0,3.98,3,11.3,2025-01-06,12,Ramped
+R0115,Idris E,Leah Andersson,APJ,James Park,ASEAN,Fatima Rossi,Elena Santos,Commercial AE,290581.0,836873.0,2.88,1,28.4,2024-04-11,21,Ramped
+R0116,Idris E,Leah Andersson,APJ,James Park,ASEAN,Fatima Rossi,Yuki Reyes,Mid-Market AE,484301.0,1942049.0,4.01,3,44.8,2024-11-07,14,Ramped
+R0117,Idris E,Leah Andersson,APJ,James Park,ASEAN,Fatima Rossi,Grace Cohen,Enterprise AE,871743.0,1551702.0,1.78,0,65.0,2024-04-11,21,Ramped
+R0118,Idris E,Leah Andersson,APJ,James Park,ASEAN,Fatima Rossi,Fatima Patel,Commercial AE,290581.0,921141.0,3.17,1,16.2,2024-12-07,13,Ramped
+R0119,Idris E,Leah Andersson,APJ,James Park,ASEAN,Fatima Rossi,Hassan Haddad,Mid-Market AE,484301.0,1748328.0,3.61,3,46.5,2024-08-09,17,Ramped
+R0120,Idris E,Leah Andersson,APJ,James Park,ASEAN,Fatima Rossi,James Berg,Enterprise AE,871743.0,2972642.0,3.41,1,28.7,2025-12-02,1,Ramping
+R0121,Idris E,Leah Andersson,APJ,James Park,ASEAN,Rosa Haddad,Priya Patel,Commercial AE,290581.0,1269838.0,4.37,2,22.7,2022-05-22,44,Ramped
+R0122,Idris E,Leah Andersson,APJ,James Park,ASEAN,Rosa Haddad,Leah Park,Mid-Market AE,484301.0,1879089.0,3.88,3,31.5,2020-04-02,70,Ramped
+R0123,Idris E,Leah Andersson,APJ,James Park,ASEAN,Rosa Haddad,Chen Lund,Mid-Market AE,484301.0,2053438.0,4.24,1,25.9,2024-09-08,16,Ramped
+R0124,Idris E,Leah Andersson,APJ,James Park,ASEAN,Rosa Haddad,Ahmed Cohen,Commercial AE,290581.0,796192.0,2.74,0,26.7,2018-03-14,95,Ramped
+R0125,Idris E,Leah Andersson,APJ,James Park,ASEAN,Diego Ferreira,Maria Kim,Strategic AE,1452904.0,6523540.0,4.49,0,18.9,2025-09-03,4,Ramping
+R0126,Idris E,Leah Andersson,APJ,James Park,ASEAN,Diego Ferreira,Nia Santos,Enterprise AE,871743.0,4611518.0,5.29,1,4.0,2019-09-05,77,Ramped
+R0127,Idris E,Leah Andersson,APJ,James Park,ASEAN,Diego Ferreira,Ivan Chowdhury,Commercial AE,290581.0,706111.0,2.43,1,1.8,2025-03-07,10,Ramped
+R0128,Idris E,Leah Andersson,APJ,James Park,ASEAN,Diego Ferreira,Tomas Diaz,Strategic AE,1452904.0,3661319.0,2.52,0,34.8,2024-07-10,18,Ramped
+R0129,Idris E,Leah Andersson,APJ,James Park,ASEAN,Diego Ferreira,Elena Silva,Enterprise AE,871743.0,4332560.0,4.97,2,20.8,2020-06-01,68,Ramped
+R0130,Idris E,Leah Andersson,APJ,James Park,ASEAN,Diego Ferreira,Rosa Walsh,Commercial AE,290581.0,956011.0,3.29,0,16.1,2025-10-03,3,Ramping
+R0131,Idris E,Leah Andersson,APJ,James Park,ASEAN,Diego Ferreira,Ahmed Rossi,Enterprise AE,871743.0,4393582.0,5.04,0,25.1,2025-08-04,5,Ramping
+R0132,Idris E,Nia Okafor,PubSec,James Bauer,US-Federal,Anna Lund,Grace Kim,Public Sector AE,635801.0,1913760.0,3.01,1,36.9,2022-12-18,37,Ramped
+R0133,Idris E,Nia Okafor,PubSec,James Bauer,US-Federal,Anna Lund,Sven Moreau,Public Sector AE,635801.0,3242584.0,5.1,1,27.7,2023-10-14,27,Ramped
+R0134,Idris E,Nia Okafor,PubSec,James Bauer,US-Federal,Anna Lund,James Ferreira,Public Sector AE,635801.0,2314315.0,3.64,3,15.2,2025-05-06,8,Ramped
+R0135,Idris E,Nia Okafor,PubSec,James Bauer,US-Federal,Anna Lund,Leah Okafor,Public Sector AE,635801.0,2403327.0,3.78,0,43.4,2025-01-06,12,Ramped
+R0136,Idris E,Nia Okafor,PubSec,James Bauer,US-Federal,Anna Lund,Diego Ali,Public Sector AE,635801.0,3318880.0,5.22,1,48.7,2024-05-11,20,Ramped
+R0137,Idris E,Nia Okafor,PubSec,James Bauer,US-Federal,Anna Lund,David Cohen,Public Sector AE,635801.0,1970983.0,3.1,5,32.4,2021-08-25,53,Ramped
+R0138,Idris E,Nia Okafor,PubSec,James Bauer,US-Federal,Ivan Santos,Raj Santos,Public Sector AE,635801.0,1564070.0,2.46,0,39.6,2025-03-07,10,Ramped
+R0139,Idris E,Nia Okafor,PubSec,James Bauer,US-Federal,Ivan Santos,Rosa Silva,Public Sector AE,635801.0,1913760.0,3.01,1,43.6,2024-04-11,21,Ramped
+R0140,Idris E,Nia Okafor,PubSec,James Bauer,US-Federal,Ivan Santos,Nia Berg,Public Sector AE,635801.0,2543203.0,4.0,0,42.0,2025-04-06,9,Ramped
+R0141,Idris E,Nia Okafor,PubSec,James Bauer,US-Federal,Ivan Santos,Kai Novak,Public Sector AE,635801.0,1131725.0,1.78,3,34.2,2025-05-06,8,Ramped
+R0142,Idris E,Nia Okafor,PubSec,James Bauer,US-Federal,James Andersson,Chen Reyes,Public Sector AE,635801.0,2670363.0,4.2,1,34.0,2021-02-26,59,Ramped
+R0143,Idris E,Nia Okafor,PubSec,James Bauer,US-Federal,James Andersson,Sven Okafor,Public Sector AE,635801.0,1850180.0,2.91,3,32.8,2024-10-08,15,Ramped
+R0144,Idris E,Nia Okafor,PubSec,James Bauer,US-Federal,James Andersson,Kofi Garcia,Public Sector AE,635801.0,3026412.0,4.76,1,8.5,2022-12-18,37,Ramped
+R0145,Idris E,Nia Okafor,PubSec,James Bauer,US-Federal,James Andersson,Ahmed Ali,Public Sector AE,635801.0,953701.0,1.5,2,35.5,2025-05-06,8,Ramped
+R0146,Idris E,Nia Okafor,PubSec,James Bauer,US-Federal,James Andersson,Isla Moreau,Public Sector AE,635801.0,1672156.0,2.63,1,4.7,2025-08-04,5,Ramping
+R0147,Idris E,Nia Okafor,PubSec,James Bauer,US-Federal,James Andersson,Grace Novak,Public Sector AE,635801.0,1042713.0,1.64,1,13.1,2023-06-16,31,Ramped
+R0148,Idris E,Nia Okafor,PubSec,James Bauer,US-SLED,Marco Vargas,Nia Moreau,Public Sector AE,635801.0,1646724.0,2.59,1,44.6,2022-10-19,39,Ramped
+R0149,Idris E,Nia Okafor,PubSec,James Bauer,US-SLED,Marco Vargas,Liam Chowdhury,Public Sector AE,635801.0,2396969.0,3.77,0,37.6,2023-11-13,26,Ramped
+R0150,Idris E,Nia Okafor,PubSec,James Bauer,US-SLED,Marco Vargas,Omar Rossi,Public Sector AE,635801.0,2098143.0,3.3,1,47.3,2023-04-17,33,Ramped
+R0151,Idris E,Nia Okafor,PubSec,James Bauer,US-SLED,Marco Vargas,Yuki Silva,Public Sector AE,635801.0,2047279.0,3.22,0,20.9,2023-09-14,28,Ramped
+R0152,Idris E,Nia Okafor,PubSec,James Bauer,US-SLED,Isla Costa,Fatima Lund,Public Sector AE,635801.0,2110859.0,3.32,3,7.7,2023-07-16,30,Ramped
+R0153,Idris E,Nia Okafor,PubSec,James Bauer,US-SLED,Isla Costa,Mei Olsen,Public Sector AE,635801.0,2365179.0,3.72,1,21.4,2020-10-29,63,Ramped
+R0154,Idris E,Nia Okafor,PubSec,James Bauer,US-SLED,Isla Costa,Grace Okafor,Public Sector AE,635801.0,1519564.0,2.39,0,26.5,2019-07-07,79,Ramped
+R0155,Idris E,Nia Okafor,PubSec,James Bauer,US-SLED,Isla Costa,Hassan Ali,Public Sector AE,635801.0,2721227.0,4.28,0,26.2,2024-07-10,18,Ramped
+R0156,Idris E,Nia Okafor,PubSec,James Bauer,US-SLED,Isla Costa,Raj Berg,Public Sector AE,635801.0,2689437.0,4.23,4,42.0,2025-11-02,2,Ramping
+R0157,Idris E,Nia Okafor,PubSec,James Bauer,US-SLED,Isla Costa,Fatima Olsen,Public Sector AE,635801.0,2492339.0,3.92,2,19.6,2022-10-19,39,Ramped
+R0158,Idris E,Nia Okafor,PubSec,James Bauer,US-SLED,Isla Costa,Omar Silva,Public Sector AE,635801.0,2613141.0,4.11,0,30.3,2024-02-11,23,Ramped
+R0159,Idris E,Nia Okafor,PubSec,James Bauer,US-SLED,Liam Olsen,Ivan Lund,Public Sector AE,635801.0,2435117.0,3.83,0,10.2,2020-06-01,68,Ramped
+R0160,Idris E,Nia Okafor,PubSec,James Bauer,US-SLED,Liam Olsen,Rosa Okafor,Public Sector AE,635801.0,3649497.0,5.74,3,31.8,2023-08-15,29,Ramped
+R0161,Idris E,Nia Okafor,PubSec,James Bauer,US-SLED,Liam Olsen,Fatima Nguyen,Public Sector AE,635801.0,2161723.0,3.4,1,25.0,2025-10-03,3,Ramping
+R0162,Idris E,Nia Okafor,PubSec,James Bauer,US-SLED,Liam Olsen,Elena Andersson,Public Sector AE,635801.0,2009131.0,3.16,1,13.8,2023-08-15,29,Ramped
+R0163,Idris E,Nia Okafor,PubSec,Yuki Garcia,Intl-Gov,Tomas Ali,Kai Ali,Public Sector AE,635801.0,1697588.0,2.67,0,21.5,2024-09-08,16,Ramped
+R0164,Idris E,Nia Okafor,PubSec,Yuki Garcia,Intl-Gov,Tomas Ali,Diego Garcia,Public Sector AE,635801.0,1500490.0,2.36,2,22.2,2025-10-03,3,Ramping
+R0165,Idris E,Nia Okafor,PubSec,Yuki Garcia,Intl-Gov,Tomas Ali,Chen Olsen,Public Sector AE,635801.0,1354256.0,2.13,1,20.9,2025-06-05,7,Ramped
+R0166,Idris E,Nia Okafor,PubSec,Yuki Garcia,Intl-Gov,Tomas Ali,Aisha Walsh,Public Sector AE,635801.0,1602218.0,2.52,1,51.6,2018-01-13,97,Ramped
+R0167,Idris E,Nia Okafor,PubSec,Yuki Garcia,Intl-Gov,Kofi Nguyen,Maria Mbeki,Public Sector AE,635801.0,2174439.0,3.42,4,23.5,2025-02-05,11,Ramped
+R0168,Idris E,Nia Okafor,PubSec,Yuki Garcia,Intl-Gov,Kofi Nguyen,Diego Silva,Public Sector AE,635801.0,2460549.0,3.87,2,21.3,2025-06-05,7,Ramped
+R0169,Idris E,Nia Okafor,PubSec,Yuki Garcia,Intl-Gov,Kofi Nguyen,Anna Moreau,Public Sector AE,635801.0,2263451.0,3.56,2,0.0,2025-01-06,12,Ramped
+R0170,Idris E,Nia Okafor,PubSec,Yuki Garcia,Intl-Gov,Kofi Nguyen,Hassan Moreau,Public Sector AE,635801.0,1691230.0,2.66,2,11.6,2021-04-27,57,Ramped
